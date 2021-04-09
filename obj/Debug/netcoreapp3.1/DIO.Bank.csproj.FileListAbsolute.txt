@@ -1,0 +1,13 @@
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+D:\PROYECTOS\DIO\DIO.Bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csprojAssemblyReference.cache
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+D:\PROYECTOS\DIO\DIO.Bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
